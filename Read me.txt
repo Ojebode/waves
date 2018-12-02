@@ -1,4 +1,6 @@
-This was one of the website i designed for fun in 2014 which contains information about a popular hairstyle called waves as i belong to the global community of the wavers in which most of the memebers of this community are Americans.
+This was one of the website i designed for fun in 2014 which contains information 
+about a popular hairstyle called waves as i belong to the global community of the 
+wavers in which most of the memebers of this community are Americans.
 
 
 I used Microsoft Expression Web for this project and i bought a domain for 2 years which the website was up and running on til my domain subscription expired.
